@@ -1,0 +1,11 @@
+body {
+    background-color: #394A61;
+}
+
+.whiteText {
+    color: white;
+}
+
+.whiteText > span {
+    color: green;
+}
